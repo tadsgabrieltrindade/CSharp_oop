@@ -1,0 +1,15 @@
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\bin\Debug\net6.0\byteBank.exe
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\bin\Debug\net6.0\byteBank.deps.json
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\bin\Debug\net6.0\byteBank.runtimeconfig.json
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\bin\Debug\net6.0\byteBank.dll
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\bin\Debug\net6.0\byteBank.pdb
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\obj\Debug\net6.0\byteBank.csproj.AssemblyReference.cache
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\obj\Debug\net6.0\byteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\obj\Debug\net6.0\byteBank.AssemblyInfoInputs.cache
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\obj\Debug\net6.0\byteBank.AssemblyInfo.cs
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\obj\Debug\net6.0\byteBank.csproj.CoreCompileInputs.cache
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\obj\Debug\net6.0\byteBank.dll
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\obj\Debug\net6.0\refint\byteBank.dll
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\obj\Debug\net6.0\byteBank.pdb
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\obj\Debug\net6.0\byteBank.genruntimeconfig.cache
+C:\Curso\CSharp\CSharp_OOP\byteBank\byteBank\obj\Debug\net6.0\ref\byteBank.dll
