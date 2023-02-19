@@ -85,3 +85,4 @@ sistema.Logar(gerenteContas, "gerentesenha");
 ParceioComercial parceiro = new ParceioComercial();
 parceiro.senha = "1981";
 sistema.Logar(parceiro, "1981");
+
