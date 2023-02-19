@@ -9,4 +9,4 @@
 
  - [C#: ORIENTAÇÃO A OBJETOS](https://cursos.alura.com.br/certificate/9e485be2-bd62-438f-8cc9-71658816b6d3)
 
-  - [C#: USANDO HERANÇA E IMPLEMENTANDO INTERFACES](https://cursos.alura.com.br/certificate/
+ - [C#: USANDO HERANÇA E IMPLEMENTANDO INTERFACES](https://cursos.alura.com.br/certificate/2d203349-a66b-4692-bd5a-986647bb3f55)
