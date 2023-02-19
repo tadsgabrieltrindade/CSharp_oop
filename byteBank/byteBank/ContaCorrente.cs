@@ -8,10 +8,27 @@ namespace byteBank
 {
     public class ContaCorrente
     {
-        public int numero_agencia;
-        public string conta;
-        public string titular;
-        public double saldo;
+        public int numero_agencia { get; set; }
+        public string conta { get; set; }
+        public string titular { get; set; }
+        public double saldo { get; set; }
+
+        public static int qnt_contas { get; set; }
+
+
+        public ContaCorrente(string titular, string conta, int numero_agencia, double saldo)
+        {
+            this.titular = titular;
+            this.conta = conta;
+            this.numero_agencia = numero_agencia;
+            this.saldo = saldo;
+            qnt_contas += 1;
+        }
+
+        public ContaCorrente()
+        {
+            qnt_contas += 1;
+        }
 
 
         public void dadosConta()
@@ -20,6 +37,8 @@ namespace byteBank
             Console.WriteLine("Conta: " + this.conta);
             Console.WriteLine("Dígito: " + this.numero_agencia);
             Console.WriteLine("Saldo: R$" + this.saldo);
+            Console.WriteLine("\r\n");
+            Console.WriteLine("Quantidade de contas cadastradas: " + qnt_contas);
             Console.WriteLine("\r\n");
         }
 
